@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Alloy website social preview">
+  <rect width="1200" height="630" fill="#f7f9fc"/>
+  <rect x="72" y="70" width="1056" height="490" rx="8" fill="#ffffff" stroke="#d8dee8" stroke-width="2"/>
+  <rect x="72" y="70" width="1056" height="86" rx="8" fill="#101828"/>
+  <rect x="112" y="102" width="40" height="40" rx="6" fill="#ffffff"/>
+  <path d="M120 137 130 112h4l10 25h-6l-1.8-4.6h-8.4L126 137h-6Zm9.4-9.5h5.2l-2.6-7-2.6 7Z" fill="#101828"/>
+  <circle cx="162" cy="104" r="8" fill="#2c9f91"/>
+  <text x="184" y="130" fill="#ffffff" font-family="Inter, Arial, Helvetica, sans-serif" font-size="32" font-weight="800">Alloy</text>
+  <text x="112" y="268" fill="#101828" font-family="Inter, Arial, Helvetica, sans-serif" font-size="62" font-weight="800">Grow Your TikTok LIVE Journey</text>
+  <text x="112" y="338" fill="#101828" font-family="Inter, Arial, Helvetica, sans-serif" font-size="62" font-weight="800">with Alloy</text>
+  <text x="112" y="404" fill="#5f6b7a" font-family="Inter, Arial, Helvetica, sans-serif" font-size="28">Creator onboarding, LIVE operations guidance, account support,</text>
+  <text x="112" y="444" fill="#5f6b7a" font-family="Inter, Arial, Helvetica, sans-serif" font-size="28">performance insights, and long-term growth services in Türkiye.</text>
+  <rect x="112" y="492" width="250" height="48" rx="6" fill="#2c9f91"/>
+  <text x="140" y="525" fill="#ffffff" font-family="Inter, Arial, Helvetica, sans-serif" font-size="22" font-weight="800">alloy-live-agency.com</text>
+  <rect x="816" y="218" width="224" height="196" rx="8" fill="#101828"/>
+  <circle cx="928" cy="316" r="42" fill="#2c9f91"/>
+  <path d="M914 292v48l38-24-38-24Z" fill="#ffffff"/>
+  <rect x="838" y="442" width="180" height="28" rx="6" fill="#eef8f6"/>
+  <rect x="838" y="488" width="124" height="18" rx="6" fill="#d8dee8"/>
+  <rect x="838" y="520" width="156" height="18" rx="6" fill="#d8dee8"/>
+</svg>
